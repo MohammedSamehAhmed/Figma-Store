@@ -1,0 +1,2 @@
+# Figma-Store
+Not responsive
